@@ -1,5 +1,9 @@
 # 💫 About Me:
 I am Raghavendra Mudhol
+<br>
+Student at KLE Technological University
+<br>
+Java | Python | C and Gen AI
 
 
 ## 🌐 Socials:
